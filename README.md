@@ -1,6 +1,8 @@
 ### Hi there 👋
 
 My name is Amanda Boyed. I am currently enrolled in the Programmer Coach coding program.
+
+I am editing this file from GitKraken!
 <!--
 **aboyed93/aboyed93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
